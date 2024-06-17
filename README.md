@@ -1,8 +1,17 @@
-👋 Merhaba, ben Efe Ali Bozkurt!
+# Merhaba, ben Efe Ali Bozkurt! 👋 
 
 🚀 Hayallerimin peşinden koşan bir geliştiriciyim.
 
 🧑‍💻 Python ve C++ dilleri ile arduino projeleri geliştiriyorum.
+```python
+print("Merhaba projelerimi inceleyebilirsiniz...")
+```
+```c++
+void setup() {
+Serial.begin(9600);
+Serial.print("Hayaller Burada Gerçek. ") 
+}
+```
 
 📱 Uygulama, web ve Arduino geliştirme konularında deneyimliyim.
 
