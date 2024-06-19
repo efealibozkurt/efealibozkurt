@@ -35,10 +35,8 @@ Kodlamanın gücüyle dünyayı daha iyi bir yer haline getirmek için çalış�
 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 
-## Bildiğim diller
-
- 
-![alt text](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png "Logo Title Text 1")
+## Yerli üretim hamlem
+Yerli üretim hamlem ile projelerime yerli kaynaklar kullanarak dışa bağımlılığı azaltmayı destekliyorum. Sizide bu hamleme davet ediyorum. 
 
 
 
