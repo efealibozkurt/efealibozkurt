@@ -30,7 +30,11 @@ Kodlamanın gücüyle dünyayı daha iyi bir yer haline getirmek için çalış�
   
 
 ## Uzmanlık alanım
-![Makeroid Logo](https://r.resimlink.com/sxg8m.png)
+ 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+
 ## Bildiğim diller
 
  
