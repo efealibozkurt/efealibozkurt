@@ -35,6 +35,7 @@ Kodlamanın gücüyle dünyayı daha iyi bir yer haline getirmek için çalış�
 
 ## Yerli üretim hamlem
 Yerli üretim hamlem ile projelerime yerli kaynaklar kullanarak dışa bağımlılığı azaltmayı destekliyorum. Sizide bu hamleme davet ediyorum. 
+[url=https://hizliresim.com/idww75y][img]https://i.hizliresim.com/idww75y.png[/img][/url]
 
 
 
