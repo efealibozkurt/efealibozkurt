@@ -35,7 +35,6 @@ Kodlamanın gücüyle dünyayı daha iyi bir yer haline getirmek için çalış�
 
 ## Yerli üretim hamlem
 Yerli üretim hamlem ile projelerime yerli kaynaklar kullanarak dışa bağımlılığı azaltmayı destekliyorum. Sizide bu hamleme davet ediyorum. 
-https://resmim.net/cdn/2024/06/22/fzgsVc.png
 
-
+<img src=https://resmim.net/cdn/2024/06/22/fzgsVc.png align="right" alt="htb-badge">
 
